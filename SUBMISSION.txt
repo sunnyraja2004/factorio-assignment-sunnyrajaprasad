@@ -1,0 +1,7 @@
+Name: Sunny Raja Prasad
+Email: sunnyrp21@iitk.ac.in
+OS / CPU / RAM: <e.g., Ubuntu 22.04, i7-12700H, 16GB>
+Language & Version: Python 3.11.7
+Dependencies: scipy>=1.10 (factory LP, HiGHS), numpy
+Notes: Deterministic LP; Dinic with lexicographic traversal; tolerances 1e-9.
+Repo: https://github.com/sunnyraja2004/factorio-assignment-sunnyrajaprasad
